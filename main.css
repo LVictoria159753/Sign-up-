@@ -1,4 +1,6 @@
-
+body{
+    font-family: 'Open Sans', sans-serif;
+}
 
 #left{
 border: solid 1px black;
@@ -11,11 +13,17 @@ background-image: url(halie-west-25xggax4bSA-unsplash.jpg) ;
 float:left;
 border: solid 1px black;
 height: 400px;
+background-color: rgb(241, 236, 236);
 
 }
 
 #submit{
     background-color:#596D48;
+    color:white;
+    font-size: 15px;
+    padding: 8px 25px;
+    border-radius: 8px;
+    
 }
 
 a{
